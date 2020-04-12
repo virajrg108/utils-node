@@ -1,0 +1,23 @@
+{
+  "name": "utils-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirajRG/utils-node.git"
+  },
+  "author": "VirajRG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirajRG/utils-node/issues"
+  },
+  "homepage": "https://github.com/VirajRG/utils-node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
